@@ -1,5 +1,5 @@
-from config import model_config
-from interfaces import save_model
+from src.config import model_config
+from src.interfaces import save_model
 from sklearn.tree import DecisionTreeClassifier
 
 
